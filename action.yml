@@ -1,4 +1,4 @@
-name: Setup Elixir
+name: Setup Elixir Refactor
 description: Set up a specific version of OTP and Elixir and add the command-line tools to the PATH
 author: GitHub
 branding:
